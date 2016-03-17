@@ -1,0 +1,59 @@
+ Quadro de Medalhas Inicial
+    Ouro | Prata | Bronze
+
+P1     18      7     17
+P2      2      4      6
+P3      0     15      0
+P4     20      2     11
+P5      2      2      4
+P6      3      7      1
+P7      0      8      6
+
+
+ Quantidade inicial de provas disputadas:  45
+ Percentual de provas dispotadas: 14.71 
+
+
+ Rancking com Desempenho Inicial dos paises
+    Ouro | Prata | Bronze | Total
+P4     20      2     11     33
+P1     18      7     17     42
+P6      3      7      1     11
+P2      2      4      6     12
+P5      2      2      4      8
+P3      0     15      0     15
+P7      0      8      6     14
+
+
+ Quadro ordenado pela quantidade Total de medalhas recebidas
+    Total| Ouro | Prata | Bronze
+ P1   42     18      7     17
+ P4   33     20      2     11
+ P3   15      0     15      0
+ P7   14      0      8      6
+ P2   12      2      4      6
+ P6   11      3      7      1
+ P5    8      2      2      4
+
+ Rancking com Desempenho dos paises ao encerrar o programa
+    Ouro | Prata | Bronze | Total
+P4     20      2     11     33
+P1     18      7     17     42
+P6      3      7      1     11
+P2      2      4      6     12
+P5      2      2      4      8
+P3      0     15      0     15
+P7      0      8      6     14
+
+ Quadro ordenado pela quantidade Total de medalhas recebidas ao encerrar o programa
+    Total | Ouro | Prata | Bronze
+P1   42     18      7     17
+P4   33     20      2     11
+P3   15      0     15      0
+P7   14      0      8      6
+P2   12      2      4      6
+P6   11      3      7      1
+P5    8      2      2      4
+
+ Quantidade de provas disputadas ao encerrar o programa:  45
+ Percentual de provas dispotadas: 14.71
